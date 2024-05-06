@@ -11,5 +11,4 @@ Prerequisite(s):
 
 Instructor: Lorans Alabood  
 TA: Hessam Djavaherpour   
-Overall grade: A+  
 
